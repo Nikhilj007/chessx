@@ -32,7 +32,7 @@ This is a Chess game built in Java using the Swing library. The game is designed
 
 1. Clone the Repository:
     ```
-    git clone https://github.com/yashwardhan-jyani/Chessy.git
+    git clone https://github.com/yashwardhan-nikhil/Chessy.git
     ```
 
 2. Navigate to the Project Directory:
